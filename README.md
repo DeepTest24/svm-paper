@@ -1,6 +1,6 @@
 # About
 
-This repository holds implementation and evaluation results of NSGA-II-SVM approach presented in the paper with the title submitted at DeepTest@ICSE24: "Guiding the Search Towards Failure-Inducing Test Inputs Using Support Vector Machines".
+This repository holds the implementation and evaluation results of NSGA-II-SVM approach presented in the paper with the title submitted at DeepTest@ICSE24: "Guiding the Search Towards Failure-Inducing Test Inputs Using Support Vector Machines".
 
 ## Algorithm
 
@@ -8,10 +8,9 @@ The reflection study has been conducted with the support of the open-source and 
 
 ## Results Combined
 
-The *Hypervolume/General Distance/Spread*analysis results after 10 runs are available here: 
+The *Hypervolume/General Distance/Spread* analysis results after 10 runs are available here: 
 
 <img src="results/subplots_combined_gd.png" alt="results_10_runs" width="600"/>
-
 
 The detailed *Hypervolume* analysis results are available here: [HV](/results/hv/)
 
@@ -28,7 +27,7 @@ Note, that in the graphs more evaluations are visible done by NSGA-II-DT then us
 
 ## Results Ratio Sampling
 
-Below are provide results which show the ratio of critical test cases from all sampled in an SVM region over time (9 SVM generations per run) for all runs and on average. This metric should assess the guidance of the SVM Model with increasing number of SVM iterations. 
+Below are provided results which show the ratio of critical test cases from all sampled tests in an SVM region over time (9 SVM generations per run) for all runs and on average. This metric should assess the guidance of the SVM Model with increasing number of SVM iterations. 
 
 <center>
 <img src="results/ratio/svm_ratio.png" alt="Ratio_SVM" width="600"/>
