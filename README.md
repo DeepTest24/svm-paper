@@ -1,6 +1,6 @@
 # About
 
-This repository holds the implementation and evaluation results of NSGA-II-SVM approach presented in the paper with the title submitted at DeepTest@ICSE24: "Guiding the Search Towards Failure-Inducing Test Inputs Using Support Vector Machines".
+This repository holds the implementation and evaluation results of the NSGA-II-SVM approach presented in the paper with the title submitted at DeepTest@ICSE24: "Guiding the Search Towards Failure-Inducing Test Inputs Using Support Vector Machines".
 
 ## Algorithm
 
