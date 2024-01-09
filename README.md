@@ -4,7 +4,7 @@ This repository holds the implementation and evaluation results of the NSGA-II-S
 
 ## Algorithm
 
-The reflection study has been conducted with the support of the open-source and modular testing framework [OpenSBT](https://git.fortiss.org/opensbt/opensbt-core). The implementation is provided [here](algorithm/kernel_svm.py). The algorithm integrated into OpenSBT can be found [here](application/opensbt-svm.zp).
+The reflection study has been conducted with the support of the open-source and modular testing framework [OpenSBT](https://git.fortiss.org/opensbt/opensbt-core). The implementation is provided [here](algorithm/kernel_svm.py). The algorithm integrated into OpenSBT can be found [here](application/opensbt-svm.zip).
 
 ## Results Combined
 
